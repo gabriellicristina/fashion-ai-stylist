@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/clothing-classify/route": "app/api/clothing-classify/route.js",
+  "/api/feedback/route": "app/api/feedback/route.js",
+  "/api/generate-look/route": "app/api/generate-look/route.js",
+  "/cadastro/page": "app/cadastro/page.js",
+  "/page": "app/page.js",
+  "/sugestoes/page": "app/sugestoes/page.js"
+}
